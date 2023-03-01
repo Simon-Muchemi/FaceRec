@@ -19,9 +19,9 @@ body{
 }
 .camera{
     display:block;
-    background-color: grey;
-    height: 40%;
-    width: 40%;
+    /*background-color: grey;*/
+    height: 50%;
+    width: 50%;
     align-items: center;
     padding-left: 8%;
     padding-top: 8%;

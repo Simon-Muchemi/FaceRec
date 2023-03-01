@@ -1,4 +1,3 @@
-const video = document.getElementById('video');
 
 function startVideo() {
     navigator.getUserMedia(
@@ -7,5 +6,4 @@ function startVideo() {
         err => console.error(err)
     )
 }
-
 startVideo()
